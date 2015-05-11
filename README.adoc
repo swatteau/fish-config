@@ -1,0 +1,9 @@
+This is my fish configuration files
+
+== Setup
+
+. Clone this repository into the `~/.config` directory:
++
+----
+git clone https://github.com/swatteau/fish-config ~/.config/fish
+----
